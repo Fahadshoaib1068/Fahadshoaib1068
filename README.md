@@ -40,20 +40,6 @@ Currently, I'm focusing on combining **Backend Development** with **Artificial I
 
 ---
 
-## 🚀 Featured Projects
-
-### 🛒 Store Management System
-A complete backend application built with Spring Boot featuring:
-
-- REST APIs
-- CRUD Operations
-- Pagination
-- Filtering & Searching
-- JWT Authentication
-- Layered Architecture
-- Repository Pattern
-
-
 ## 📚 Currently Learning
 
 - Advanced Spring Boot
