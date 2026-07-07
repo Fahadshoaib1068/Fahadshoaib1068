@@ -83,9 +83,8 @@ A complete backend application built with Spring Boot featuring:
 
 I'm always interested in collaborating on backend systems, AI applications, and open-source projects.
 
-> *"Great software isn't just code—it's solving real problems with scalable and maintainable solutions."*
-> ## 🤝 Connect with Me
-
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Muhammad%20Fahad-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/muhammad-fahad-626148326/)
 
 📧 Email: fahadshoaib2005@gmail.com
+
+> *"Great software isn't just code—it's solving real problems with scalable and maintainable solutions."*
