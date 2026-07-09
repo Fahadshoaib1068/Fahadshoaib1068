@@ -13,8 +13,6 @@ Currently, I'm focusing on combining **Backend Development** with **Artificial I
 - 🎓 Software Engineering Student
 - 💻 Backend Developer specializing in Java & Spring Boot
 - 🤖 Learning AI Engineering with Python
-- 🌱 Currently exploring Agentic AI, LangChain, LangGraph, n8n, and Retrieval-Augmented Generation (RAG)
-- 📚 Constantly improving my understanding of distributed systems, databases, and software architecture
 - 🎯 Career Goal: Build scalable backend platforms and intelligent AI applications
 
 ---
@@ -26,6 +24,9 @@ Currently, I'm focusing on combining **Backend Development** with **Artificial I
 - Javascript
 - C++
 - SQL
+- HTML
+- CSS
+- C
 
 ## 📌 Current Focus
 
@@ -39,20 +40,6 @@ Currently, I'm focusing on combining **Backend Development** with **Artificial I
 - System Design
 
 ---
-
-## 📚 Currently Learning
-
-- Advanced Spring Boot
-- Microservices
-- Docker
-- Redis
-- RabbitMQ
-- Kubernetes
-- System Design
-- AI Agents
-- LangGraph
-- MCP (Model Context Protocol)
-
 
 ## 💡 Interests
 
