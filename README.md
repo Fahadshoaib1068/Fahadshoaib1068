@@ -1,4 +1,4 @@
-# Hi there, I'm Fahad 👋
+# I'm Fahad
 
 ### Software Engineering Student | Backend Developer 
 
